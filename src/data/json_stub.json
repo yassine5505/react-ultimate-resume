@@ -237,20 +237,62 @@
         },
         "cardsOrder": [
             { "type": "basics", "variant": 4 },
+            { "type": "experiences", "variant": 4 },
             { "type": "projects", "variant": 4 },
             { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
             { "type": "studies", "variant": 4 },
             { "type": "gifs", "variant": 0 },
             { "type": "interestedBy", "variant": 3 },
             { "type": "language", "variant": 4 },
             { "type": "soundtrack", "variant": 4 }
-        ],
+          ],
         "fields": {
             "work": {
                 "customDateFormat": "YYYY"
             }
-        }
+        },
+        "theme": {
+            "palette": {
+              "primary": {
+                "50": "#e6e6e6",
+                "100": "#cccccc",
+                "200": "#999999",
+                "300": "#666666",
+                "400": "#333333",
+                "500": "#000000",
+                "600": "#000000",
+                "700": "#000000",
+                "800": "#000000",
+                "900": "#000000",
+                "contrastDefaultColor": "light"
+              },
+              "secondary": {
+                "50": "#f5e7e8",
+                "100": "#eccfd1",
+                "200": "#d9a0a4",
+                "300": "#c57076",
+                "400": "#b24149",
+                "500": "#9f111b",
+                "600": "#7f0e16",
+                "700": "#5f0a10",
+                "800": "#40070b",
+                "900": "#200305",
+                "contrastDefaultColor": "light"
+              },
+              "tertiary": {
+                "50": "#f7e8e9",
+                "100": "#efd0d3",
+                "200": "#e0a2a7",
+                "300": "#d0737b",
+                "400": "#c1454f",
+                "500": "#b11623",
+                "600": "#8e121c",
+                "700": "#6a0d15",
+                "800": "#47090e",
+                "900": "#230407",
+                "contrastDefaultColor": "light"
+              }
+            }
+          }
     }
 }
