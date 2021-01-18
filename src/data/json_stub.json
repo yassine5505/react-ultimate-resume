@@ -1,277 +1,234 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
+        "name": "Mohammed Yassine Chraibi",
+        "label": "Software Engineer",
         "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "email": "medyassinechraibi@gmail.com",
+        "phone": "(212) 630-536259",
+        "website": "",
+        "summary": "A software engineer with a passion for web development and DevOps",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "GH12 Lot. Al Moustkbal",
+            "postalCode": "SM 90020",
+            "city": "Casablanca",
+            "countryCode": "MAR",
+            "region": "Casablanca"
         },
         "profiles": [
             {
-                "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
+                "network": "github",
+                "username": "yassine5505",
+                "url": "http://github.com/yassine5505"
             }
         ]
     },
     "work": [
         {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Netfective Technology",
+            "position": "Software Engineer",
+            "website": "http://bluage.com",
+            "startDate": "2020-11-02",
+            "summary": "Full stack development and DevOps",
+            "location": "Casablanca, Morocco",
+            "highlights": []
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "BeeBay SARL",
+            "position": "DevOps Intern",
+            "website": "http://beebay.com",
+            "startDate": "2020-02-02",
+            "endDate": "2020-07-29",
+            "summary": "Created and managed Jenkins pipelines for CI/CD for a joboard platform",
+            "location": "Casablanca, Morocco",
+            "highlights": []
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "BeeBay SARL",
+            "position": "Full Stack Web Development Intern",
+            "website": "http://beebay.com",
+            "summary": "Conceived and developped a jobboard platform",
+            "location": "Casablanca, Morocco",
+            "highlights": []
+        },
+        {
+            "name": "Best Creative",
+            "position": "Full Stack Web Development Intern",
+            "website": "http://bestcreative.ma",
+            "summary": "Full stack development of a CRM like application in native PHP and jQuery",
+            "location": "Fez, Morocco",
+            "highlights": []
         }
     ],
     "volunteer": [
         {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "organization": "InfoTech ENSA Tétouan",
+            "position": "President",
+            "website": "",
+            "endDate": "2017-07-30",
+            "summary": "As the president of Infotech, ENSA Tétouan's IT club, I had the opportunity to organize, plan and coordinate club meetings and events.",
+            "highlights": ["Organized TechDay in collaboration with GDG Agadir (Morocco)"]
+        },
+        {
+            "organization": "ENSA Tétouan",
+            "position": "Tutor",
+            "website": "",
+            "endDate": "2015-01-30",
+            "summary": "Tutor high school students in C programming and algorithms.",
+            "highlights": []
         }
     ],
     "education": [
         {
-            "institution": "ISEN",
+            "institution": "ENSA Tétouan",
             "area": "Software Development",
             "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "startDate": "2014",
+            "endDate": "2020",
+            "gpa": "",
+            "courses": ["Algorithms", "Database administration", "Web development", "Mobile development"]
         }
     ],
     "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
+        
     ],
     "publications": [
         {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
+            "name": "Getting started with LinkedIn Social login, React and NodeJS",
+            "publisher": "Medium",
+            "releaseDate": "2020-04-01",
+            "website": "https://medium.com/@medyassinechraibi/get-started-with-react-and-linkedin-social-login-9b8505f39668",
+            "summary": "Step-by-step OAuth 2.0 LinkedIn Social Login integration with React and NodeJS REST API"
         }
     ],
     "skills": [
         {
-            "name": "Reactaaa",
-            "level": "Master",
+            "name": "JavaScript",
+            "level": "Advanced",
             "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["NodeJS", "NodeJS", "JSON"]
         },
         {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "Java",
+            "level": "Advanced",
+            "value": 100,
+            "keywords": ["J2EE", "Spring Boot"]
         },
         {
-            "name": "NodeJS",
-            "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "PHP",
+            "level": "Advanced",
+            "value": 100,
+            "keywords": ["Laravel", "WordPress"]
         },
         {
-            "name": "Firebase",
-            "level": "Master",
+            "name": "Cloud",
+            "level": "Intermediate",
             "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["AWS", "GCP", "Scaleway"]
         },
         {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "CI CD",
+            "level": "Intermediate",
+            "value": 70,
+            "keywords": ["Jenkins", "Docker"]
         },
         {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "name": "Databases",
+            "level": "Advanced",
+            "value": 100,
+            "keywords": ["PostgreSQL", "ElasticSearch", "MySQL", "MongoDB"]
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "languages": [
+        { "language": "English", "value": 70, "fluency": "Fluent" },
+        { "language": "French", "value": 80, "fluency": "Bilingual" },
+        { "language": "Arabic", "value": 90, "fluency": "Native speaker" }],
     "interests": [
         {
-            "name": "France europe gif by nike football",
-            "gifUrl": "https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif",
-            "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
-            "gifUser": {
-                "name": "Nike Football",
-                "profileUrl": "https://giphy.com/nikefootball/",
-                "isVerified": true,
-                "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
-            }
+            "name": "Snooker",
+            "gifUrl": "https://media.giphy.com/media/3mnAXphq4fpOU/giphy.gif"
         },
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-        },
-
-        {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+            "name": "Pool",
+            "gifUrl": "https://media.giphy.com/media/UcO1oa8u2ImsppyZzQ/giphy.gif"
         },
         {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
+            "name": "DJing",
+            "gifUrl": "https://media.giphy.com/media/hpFDzxeKh2emR4ptxA/giphy.gif"
         },
         {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "Animals",
+            "gifUrl": "https://media.giphy.com/media/3o72EX5QZ9N9d51dqo/giphy.gif"
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [{ "name": "Mohammed Yassine", "reference": "" }],
     "projects": [
         {
-            "index": 5,
-            "date": { "month": 11, "year": 2019 },
-            "description": "Moteur de recherche via le nom de films réalisée avec ReactJs:\nRequête à l'Api rest avec Fetch, utilisation des hooks.\n",
+            "date": { "month": 2, "year": 2020 },
+            "description": "CLI like resumé with built in autocomplete, command history, and command aliases",
             "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
-            "images": [{ "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }],
-            "link": "https://lovely-movie.netlify.app/",
-            "name": "Lovely Movie",
+            "images": [{ "url": "" }],
+            "link": "https://yassine5505.github.io/cli-like-resume/",
+            "name": "Terminal resume",
+            "endDate": "2020-02-01"
+        },
+        {
+            "date": { "month": 11, "year": 2019 },
+            "description": "A car rental application developed using Angular 6 and Laravel 5. It's a new concept for rental systems where everything is automated.",
+            "id": "7f1f4257-e5db-477d-aa5f-aasbe0ab0b12",
+            "images": [{ "url": "" }],
+            "link": "https://github.com/yassine5505/Rentech",
+            "name": "Rentech",
             "endDate": "2019-12-01"
         },
         {
-            "index": 2,
-            "date": { "month": 0, "year": 2020 },
-            "description": "Application de gestion de tâches réalisée avec ReactJs / Redux / Firebase :\nCréation de composants avec Styled Components, gestions de formulaires et validation des entrées, création d'une authentification, récupération / création / modification / suppression de tâches.",
-            "id": "af4181b1-8955-47fb-8dd9-17c6974335d3",
-            "images": [{ "url": "https://cdn.filestackcontent.com/G2CckiqvScC9tsrvHYg4" }],
-            "link": "https://diary-todo.netlify.app/",
-            "name": "Journal d'une Todo",
-            "endDate": "2020-01-01"
+            "date": { "month": 11, "year": 2019 },
+            "description": "A mobile application based on Foursquare API that calculates the availability of a venue based on user scores, history and other factors.",
+            "id": "7f1f4257-e5db-488w-aa5f-aasbe0ab0b12",
+            "images": [{ "url": "" }],
+            "link": "https://github.com/yassine5505/isbusy-backend",
+            "name": "isBusy",
+            "endDate": "2019-09-01"
         },
         {
-            "index": 4,
-            "date": { "month": 5, "year": 2020 },
-            "description": "Blog réalisé en Java JEE et Spring, avec création d'une base de données MySQL et connectée avec JDBC.",
-            "id": "af8c78c3-f7c6-4f3b-9c32-9d37a9032e14",
-            "images": [{ "url": "https://cdn.filestackcontent.com/rPp0wj4S2GhTr0qTcqOI" }],
-            "link": "https://btz-java-2003-pjt1-blog.javarover.wilders.dev/",
-            "name": "Charlie's Angels blog",
-            "endDate": "2020-06-01"
-        },
-        {
-            "index": 3,
-            "date": { "month": 5, "year": 2020 },
-            "description": "** Pensée uniquement pour téléphone **\nApplication permettant de connaître la météo actuelle d'une ville. Réalisée afin de découvrir VueJs.",
-            "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
-            "images": [{ "url": "https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba" }],
-            "link": "https://appli-meteo.netlify.app/",
-            "name": "Application Météo",
-            "endDate": "2020-06-01"
-        },
-        {
-            "index": 1,
-            "date": { "month": 7, "year": 2020 },
-            "description": "Premières armes avec Angular et Typescript :\nMise en place d'un environnement Angular, développement d'une authentification avec Firebase, gestion des formulaires, utilisation d'observable avec RxJs.\n",
-            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
-            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
-            "link": "https://my-connected-library.netlify.app/",
-            "name": "Librairie Connectée",
-            "endDate": "2020-08-01"
-        },
-        {
-            "index": 6,
-            "date": { "month": 4, "year": 2019 },
-            "description": "Moteur de recherche basé sur le jeu World of Warcraft, premiers pas avec ReatJs.\nRequête à l'API Raider.io avec Axios.",
-            "id": "dbe2a8d9-dd9d-443d-8ae4-7a8e0b7939f5",
-            "images": [{ "url": "https://cdn.filestackcontent.com/FSysoX0ATvqy2BFvLF21" }],
-            "link": "https://wow-search-engine.netlify.app/",
-            "name": "WoW Search",
-            "endDate": "2019-05-01"
-        },
-        {
-            "index": 0,
-            "date": { "month": 6, "year": 2020 },
-            "description": "Application réalisée en 24h (challenge de formation) avec Java JEE et Spring:\nGestion d’un CRUD, création d'une API Rest, ajout d'un environnement de production avec une base de données PostgreSQL hébergée sur Heroku.",
-            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
-            "images": [{ "url": "https://cdn.filestackcontent.com/7XpHKtFTC2VynppurrK5" }],
-            "link": "https://your-todos-list.herokuapp.com/",
-            "name": "Your Todo List",
-            "endDate": "2020-07-01"
+            "date": { "month": 11, "year": 2019 },
+            "description": "A desktop application that simulates how a canal lock works. This was an academic project that was. The automatic mode was challenging to implement.",
+            "id": "7f1f4754-e5db-488w-aa5f-aasbe0ab0b12",
+            "images": [{ "url": "" }],
+            "link": "https://github.com/yassine5505/Simulateur_Ecluse",
+            "name": "Canal Lock Simulator",
+            "endDate": "2019-06-01"
         }
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "visaSponsorship": false,
+            "personalDescription": "I am Mohammed Yassine, and I am a Software/DevOps engineer.\nWhen I was a kid, I remember telling everyone that my dream was to become a computer engineer.\nI enjoyed disassembling my old pentium 2 HP PC and putting it back together.\nI have successfully completed three Fullstack Web Development internships using many web, database and DevOps technologies and tools.\nThe most important thing I learnt until now is to say yes to new challenges.\nFeel free to reach out if you want to discuss some tech topics or anything else.\n "
         },
         "dreamJob": {
             "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Paris,France" },
-                { "name": "Lille, France" },
-                { "name": "Valenciennes, France" }
+                { "name": "Casablanca, Morocco" },
+                { "name": "Tangier, Morocco" },
+                { "name": "Rabat, Morocco" }
             ],
             "remoteFrequency": "regularly"
         },
         "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
+            "issues": {}
         },
         "education": { "studiesLevel": 5 },
         "work": {
-            "contractTypes": ["permanent"],
-            "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "contractTypes": ["freelance"],
+            "codingYears": 1,
+            "codingReason": "",
             "searchState": "activelySearching",
             "experienceYears": 0,
             "codeExperienceYears": 1,
             "otherExperienceYears": 1
         },
         "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+            "embedUrl": "https://open.spotify.com/embed/playlist/6pk2af1g2pkpRs2mkLAbDA"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Programming and music."
     },
     "resumeCustomization": {
         "imageHeader": {
